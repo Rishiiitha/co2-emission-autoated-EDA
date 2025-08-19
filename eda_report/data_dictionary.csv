@@ -1,0 +1,13 @@
+column,dtype,nunique,missing,example_value
+co2_emissions_g_km_,int64,331,0,196
+cylinders,int64,8,0,4
+engine_size_l_,float64,51,0,2.0
+fuel_consumption_city_l_100_km_,float64,211,0,9.9
+fuel_consumption_comb_l_100_km_,float64,181,0,8.5
+fuel_consumption_comb_mpg_,int64,54,0,33
+fuel_consumption_hwy_l_100_km_,float64,143,0,6.7
+fuel_type,object,5,0,Z
+make,object,42,0,ACURA
+model,object,2053,0,ILX
+transmission,float64,7,295,5.0
+vehicle_class,object,16,0,COMPACT

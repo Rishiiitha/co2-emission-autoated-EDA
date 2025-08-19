@@ -1,0 +1,9 @@
+,outliers_iqr,non_null,outlier_%
+fuel_consumption_hwy_l_100_km_,208,7385,2.816519972918077
+cylinders,196,7385,2.654028436018957
+fuel_consumption_comb_l_100_km_,142,7385,1.9228165199729181
+engine_size_l_,137,7385,1.8551117129316181
+fuel_consumption_city_l_100_km_,132,7385,1.7874069058903181
+fuel_consumption_comb_mpg_,114,7385,1.5436696005416384
+co2_emissions_g_km_,80,7385,1.0832769126607988
+transmission,0,7090,0.0
