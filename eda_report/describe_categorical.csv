@@ -1,5 +1,5 @@
 ,count,unique,top,freq
 make,7385,42,FORD,628
-model,7385,2053,F-150 FFV 4X4,32
+model,7385,2053,F-150 FFV,32
 vehicle_class,7385,16,SUV - SMALL,1217
 fuel_type,7385,5,X,3637
